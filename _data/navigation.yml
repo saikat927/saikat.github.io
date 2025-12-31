@@ -8,22 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  
-#  - title: "Talks"
-#    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/
 
-#  - title: "Teaching"
-#    url: /teaching/    
-        
-#  - title: "Blog-Posts"
-#    url: /year-archive/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-    - title: "Publications"
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Publications"
     url: https://scholar.google.co.in/citations?user=hraBiJgAAAAJ&hl
-    
+
   - title: "CV"
     url: /files/SaikatSarkar.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
 
