@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: single
-permalink: /
-author_profile: true
-classes: wide
-toc: false
----
-
 I am an **Assistant Professor** with the **Department of Computer Science, Bangabasi College**, University of Calcutta. I received my **Ph.D. degree from the University of Calcutta in 2024**. Prior to joining academia, I gained **three years of professional experience as a Software Developer** in the IT industry, which continues to inform my applied and system-oriented research approach.
 
 My research interests include **computer vision in sports analytics**, **machine learning**, **deep learning**, and **large language models**, with a strong emphasis on designing robust, geometry-aware visual systems for real-world deployment. My recent work focuses on **automatic virtual advertisement insertion in soccer broadcast videos**, where I develop learning-based foreground segmentation models and **iterative homography optimization frameworks** to ensure geometrically consistent and temporally stable visual augmentation across varying camera views and match conditions. In parallel, I work on **industrial surface defect detection and classification**, leveraging weakly supervised and multi-instance learning techniques to improve reliability in practical inspection systems.
